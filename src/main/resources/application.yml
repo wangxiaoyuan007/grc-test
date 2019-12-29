@@ -1,0 +1,3 @@
+app-config:
+  grpc-server-name: localhost
+  grpc-server-port: 50051
